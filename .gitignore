@@ -1,0 +1,8 @@
+*.terraform*
+*.tfstate
+terraform.tfstate.backup
+variables.tf
+Lesson_4_Terraform/variables.tf
+DevOps_Jan_24/Lesson_4_Terraform/variables.tf
+Devops_Jan_24/DevOps_Jan_24/Lesson_4_Terraform/variables.tf
+Lesson_4_Terraform/variables.tf
