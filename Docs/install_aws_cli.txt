@@ -1,0 +1,8 @@
+1. install brew
+2. sudo apt install unzip
+3.  curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+4. unzip awscliv2.zip
+5. sudo ./aws/install
+6. /usr/local/bin/aws --version
+7. aws configure - provide access key and etc
+8. aws s3 ls
